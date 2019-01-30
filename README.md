@@ -2,13 +2,13 @@
 
 An A-B test project done for Udacity's Data Analytics nano-degree program
 
-#### Prerequisites
+### Prerequisites
 
-Python version:
+#### Python version:
 
 Python 3.6
 
-Required Libraries:
+#### Required Libraries:
 
 pandas
 numpy
